@@ -173,4 +173,4 @@ app.get("/test", (req, res) => {
 });
 app.listen(PORT, "0.0.0.0", () => {
   console.log(`BlueVid is running at http://localhost:\${PORT}\${BASE}`);
-}); w
+});
